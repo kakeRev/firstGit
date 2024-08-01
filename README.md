@@ -1,2 +1,3 @@
 # firstGit
-web programing
+first git
+Author - kakeRev
