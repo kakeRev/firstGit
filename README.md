@@ -1,3 +1,3 @@
 # firstGit
 first git
-Author - kakeRev
+Author - kakeRev (github)
